@@ -1,5 +1,5 @@
 # PSoC5-Pet_Feeder_System
-PSoC 5 powered pet feeder system with motion detection and email alert.
+PSoC 5 powered pet feeder system with motion sensing and email alert.
 
 
 This project aims at interfacing the PSoC 5 LP097 with the PIR sensor: HC-SR501, coupled to a stepper motor to open and close the door of the pet feeder system. Additionally, every time the door is opened, an automated email is generated and sent using Python script.
