@@ -1,8 +1,8 @@
 import time
 import serial
 import smtplib
-TO = 'venkateshkuppan26@gmail.com'
-GMAIL_USER = 'testarduino22@gmail.com'
+TO = 'pet_feeder@gmail.com'
+GMAIL_USER = 'pir_sensor@gmail.com'
 GMAIL_PASS = 'abcd'
 SUBJECT = 'Pet Feeder System Alert!!'
 TEXT = 'PIR sensor detected pet movement, Motor will be turned ON'
